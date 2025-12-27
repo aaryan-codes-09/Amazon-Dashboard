@@ -70,3 +70,5 @@ Power BI
 Excel / CSV Dataset
 DAX Measures
 Data Modeling & Data Cleaning
+
+Example : https://github.com/aaryan-codes-09/Amazon-Dashboard/blob/main/Amazon_Sales_page-0001.jpg
